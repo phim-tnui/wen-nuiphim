@@ -1,0 +1,11 @@
+{
+  "name": "Nuvio Addon",
+  "description": "Nuvio and Stremio Multi-Source Addon for movies, TV series, and live channels.",
+  "prompt": "Nuvio Multi-Source Addon",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

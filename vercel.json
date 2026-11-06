@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/index.js",
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": [
+          "ui.js",
+          "sources.js",
+          "scraper.js",
+          "sub-harvester.js",
+          "ai-source-finder.js",
+          "live-tv-health.js",
+          "bot-checker.js",
+          "common-utils.js",
+          "comet-source.js",
+          "live_channels.json",
+          "api_endpoints.json",
+          "scraped_streams.json",
+          "scraped_movies.json",
+          "dist/**"
+        ]
+      }
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "api/index.js"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+[
+  {
+    "id": "sample_movie_auraflix",
+    "title": "Auraflix Phim Tuyển Chọn",
+    "name": "Auraflix Phim Tuyển Chọn",
+    "type": "movie",
+    "poster": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?q=80&w=400&auto=format&fit=crop",
+    "streamUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "sourceUrl": "https://auraflix.vip",
+    "streamType": "mp4",
+    "category": "vod",
+    "categoryLabel": "🎬 Phim / VOD",
+    "discoveredAt": "2026-10-15T08:00:00.000Z"
+  }
+]

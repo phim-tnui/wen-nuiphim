@@ -1,0 +1,2250 @@
+[
+  {
+    "id": "vmttv_68626f",
+    "name": "HBO",
+    "poster": "https://i.pinimg.com/originals/8b/02/00/8b020050690f955ccb306cdf51324aea.png",
+    "genre": "Quốc Tế",
+    "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd",
+    "latency": 1473,
+    "isClearkeyFlag": true,
+    "kidHex": "09ddfe3d63863cafaeb79d0546b098ab",
+    "keyHex": "3de0f38dcf014827dfd5bec38743c6a2",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_76747638",
+    "name": "VTV8 HD",
+    "poster": "https://i.postimg.cc/k2QYWK8w/V8.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vmttv.dpdns.org/tv360/?id=vtv8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_76747632",
+    "name": "VTV2 HD",
+    "poster": "https://i.postimg.cc/yDR4tDRm/V2.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv2/playlist_360p.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_76747636",
+    "name": "VTV6 HD",
+    "poster": "https://i.postimg.cc/t7Jc81QZ/V6.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_76747633",
+    "name": "VTV3 HD",
+    "poster": "https://i.postimg.cc/B8cWZRM0/V3.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_76747635",
+    "name": "VTV5 HD",
+    "poster": "https://i.postimg.cc/ZC91vWVM/V5.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7674763130",
+    "name": "VTV10 HD",
+    "poster": "https://i.postimg.cc/4nY8BrVK/V10.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vtvgolivepre-vtv02.vtvdigital.vn/hls/vtv/live/vtv10/free/master.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_76747637",
+    "name": "VTV7 HD",
+    "poster": "https://i.postimg.cc/ykSbYwN8/V7.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 1",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT1/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 2",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT2/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 3",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT3/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 4",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT4/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 5",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT5/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 6",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT6/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 7",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT7/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 8",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT8/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 9",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT9/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 10",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livesctvng.vtvprime.vn/Live_DASHDRM1/ONSPORT10/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 11",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "ca0576ec419f490789860894bb50c977",
+    "keyHex": "25d2e703eee38718240e7038d1908fef",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 12",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "ca0576ec419f490789860894bb50c977",
+    "keyHex": "25d2e703eee38718240e7038d1908fef",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 13",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livevliatmcdw.seenow.vn/live/data8/SKSS3/Live_DASHDRM/SKSS3.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "ca0576ec419f490789860894bb50c977",
+    "keyHex": "25d2e703eee38718240e7038d1908fef",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 14",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livevliatmcdw.seenow.vn/live/data8/SKSS4/Live_DASHDRM/SKSS4.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "ca0576ec419f490789860894bb50c977",
+    "keyHex": "25d2e703eee38718240e7038d1908fef",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 15",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livevliatmcdw.seenow.vn/live/data8/SKSS5/Live_DASHDRM/SKSS5.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "ca0576ec419f490789860894bb50c977",
+    "keyHex": "25d2e703eee38718240e7038d1908fef",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 16",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://livevliatmcdw.seenow.vn/live/data8/SKSS6/Live_DASHDRM/SKSS6.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "ca0576ec419f490789860894bb50c977",
+    "keyHex": "25d2e703eee38718240e7038d1908fef",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_767476707269",
+    "name": "VTVPrime 188",
+    "poster": "https://vtvprime.vn/sideLogoBig.png",
+    "genre": "Sự Kiện VTVPrime",
+    "streamUrl": "https://qipmgzougxliv.vcdn.cloud/app/stream/master.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_767476357461",
+    "name": "VTV5 Tay Nam Bo HD",
+    "poster": "https://i.imgur.com/xiuHjEQ.png",
+    "genre": "Undefined",
+    "streamUrl": "https://dethich.pw/vtv5tnb/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_767476357461",
+    "name": "VTV5 Tay Nguyen HD",
+    "poster": "https://i.imgur.com/Hlcnqqt.png",
+    "genre": "Undefined",
+    "streamUrl": "http://dethich.pw/vtv5tn/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_76747631",
+    "name": "VTV1 HD",
+    "poster": "https://i.postimg.cc/F1FvzstX/V1.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://luuchieu.truyenhinhso.vn/media/live/C90B082632CD4A75F4B3EDB3/index.m3u8",
+    "latency": 1794
+  },
+  {
+    "id": "vmttv_76747634",
+    "name": "VTV4 HD",
+    "poster": "https://i.postimg.cc/Wqzxnzj0/V4.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/playlist_360p.m3u8",
+    "latency": 1840
+  },
+  {
+    "id": "vmttv_767476357479",
+    "name": "VTV5 TÂY NAM BỘ HD",
+    "poster": "https://i.postimg.cc/68ngzDsM/V5TNB.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tnb/playlist_360p.m3u8",
+    "latency": 2033
+  },
+  {
+    "id": "vmttv_767476357479",
+    "name": "VTV5 TÂY NGUYÊN HD",
+    "poster": "https://i.postimg.cc/HcZhVm5d/V5TN.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv5tn/playlist_360p.m3u8",
+    "latency": 2110
+  },
+  {
+    "id": "vmttv_76747639",
+    "name": "VTV9 HD",
+    "poster": "https://i.postimg.cc/phT0NSS6/V9.png",
+    "genre": "KÊNH VTV",
+    "streamUrl": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv9/playlist_360p.m3u8",
+    "latency": 2178
+  },
+  {
+    "id": "vmttv_303630303331",
+    "name": "🟢 06:00 31/10 ⚽ Newcastle Jets vs Wellington Phoenix (BLV Khô Mật) [hls]",
+    "poster": "https://apiv3.apifootball.com/badges/1056_newcastle-jets-fc.jpg",
+    "genre": "Khô Gà TV",
+    "streamUrl": "https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_313130353331",
+    "name": "11:05 31/10 🏐 Suntory Sunbirds Osaka vs Nippon Steel Sakai Blazers (BLV Khô Bò) [hls]",
+    "poster": "/media/teams/logos/suntory-sunbirds-osaka-vb.png",
+    "genre": "Khô Gà TV",
+    "streamUrl": "https://livecdn321.cdnfastter.xyz/live/live_f3d9c6a005/index.m3u8?token=rr1el4pzxOrMeroS7m-gXYnBMw8InO7dtXeJtJksyhA&expires=1852800615",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_313130303331",
+    "name": "11:00 31/10 ⚽ Newcastle Jets vs Wellington Phoenix (Doanh Chính)",
+    "poster": "https://global-cdn.cdnx.tech/football/team/296c68ac5ad3ff621c10c6ebfb9954ca.png",
+    "genre": "Vua Sân Cỏ TV",
+    "streamUrl": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-2.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_323230303331",
+    "name": "22:00 31/10 ⚽ Manchester City vs Brighton Hove Albion (Lưu Bang)",
+    "poster": "https://global-cdn.cdnx.tech/football/team/c4a6528a2ee147b99c9885ef24385a4e.png",
+    "genre": "Vua Sân Cỏ TV",
+    "streamUrl": "https://wncdnhls-global.ebaclofen.org/live/vsc-channel-7.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_303330303031",
+    "name": "03:00 01/11 ⚽ Aston Villa vs Fulham (TÔM CHIÊN) [flv]",
+    "poster": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15",
+    "genre": "Bia Ôm TV",
+    "streamUrl": "https://cdnflv.xbdbotv.live/live/MTk3MjIxMjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN5N3BueXJwNjBvbHMyYTFmYjFzN3U0aQ.flv",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 🏀 Anyang JungKwanJang vs Suwon Sonicboom (ALAN)",
+    "poster": "https://imgts.sportpulseapiz.com/basketball/team/kn54ql7t0xlrvy9/image/small",
+    "genre": "Xôi Lạc Z TV",
+    "streamUrl": "https://live2.jorvakstreamcache.com/live/channel25.flv",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 ⚽ CLB Jeonbuk Hyundai Motors vs Daejeon (BLV MONSTER) [flv]",
+    "poster": "https://img.cltvap.cc/football/team/ee2117f952745163fecfa4b74a6a2bea.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/75915087.flv",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_313433303331",
+    "name": "14:30 31/10 ⚽ Gwangju FC vs Gimcheon Sangmu FC (BLV HỔ VẰN) [flv]",
+    "poster": "https://img.cltvap.cc/football/team/2e8e1e2a893d37e3f7260e97c807c28a.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/07428422.flv",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e676f6c66",
+    "name": "ON Golf",
+    "poster": "https://i.imgur.com/BGF2I58.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://vmttv.dpdns.org/tv360/?id=vtvcab-23-golf-channel",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763274",
+    "name": "SCTV2 - todayTV HD",
+    "poster": "https://i.imgur.com/iMDjKF9.png",
+    "genre": "KÊNH GIẢI TRÍ",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=201",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763666",
+    "name": "SCTV6 - FIM 360 HD",
+    "poster": "https://i.postimg.cc/PqcqqxhT/FIM360-logo.webp",
+    "genre": "KÊNH PHIM TRUYỆN",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=232",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_323230303331",
+    "name": "22:00 31/10 ⚽ Man City vs Brighton (LÝ LONG) [geo]",
+    "poster": "https://imgts.sportpulseapiz.com/football/team/p4jwq2ghd57m0ve/image/small",
+    "genre": "Phá Làng TV",
+    "streamUrl": "https://pull1.digitalcdn.net/live/85b2ac1ae0e542b184956d826e173619/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e76696567",
+    "name": "ON Vie Giải Trí",
+    "poster": "https://i.imgur.com/7GSKm46.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=180",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e7068696d",
+    "name": "ON Phim Việt",
+    "poster": "https://i.imgur.com/MPNlpzb.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=175",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e6d6f7669",
+    "name": "ON Movies",
+    "poster": "https://i.imgur.com/765Y3jw.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=181",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e65636861",
+    "name": "ON E Channel",
+    "poster": "https://i.imgur.com/87JEXEQ.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=182",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e6f327476",
+    "name": "ON O2TV",
+    "poster": "https://i.imgur.com/nqwVkmM.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=136",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e62696269",
+    "name": "ON BiBi",
+    "poster": "https://i.imgur.com/YFmPo7l.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=178",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e696e666f",
+    "name": "ON Info TV",
+    "poster": "https://i.imgur.com/jp57P0v.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=189",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e63696e65",
+    "name": "ON Cine",
+    "poster": "https://i.imgur.com/6f9ngwY.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=176",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e7374796c",
+    "name": "ON Style TV",
+    "poster": "https://i.imgur.com/DgacoQ1.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=184",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e6d757369",
+    "name": "ON Music",
+    "poster": "https://i.imgur.com/45BXPY3.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=185",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e7666616d",
+    "name": "ON VFamily",
+    "poster": "https://i.imgur.com/R82M53x.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=187",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e6b696473",
+    "name": "ON KIDS",
+    "poster": "https://i.imgur.com/Y2SzhHG.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=179",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e6c696665",
+    "name": "On Life",
+    "poster": "https://i.imgur.com/2xT5HFx.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=188",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e7472656e",
+    "name": "ON Trending TV",
+    "poster": "https://i.imgur.com/hHYzxmS.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?id=186",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_636172746f6f",
+    "name": "CARTOON NETWORK HD",
+    "poster": "https://i.imgur.com/6oXQdBZ.png",
+    "genre": "KÊNH THIẾU NHI",
+    "streamUrl": "http://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "3c20166660a93a75ac77db81567389f7",
+    "keyHex": "3cc1add43aecce3fe31c9c6a2a5b8c21",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_66617368696f",
+    "name": "FASHION TV HD",
+    "poster": "https://i.imgur.com/wlBkL9j.png",
+    "genre": "KÊNH GIẢI TRÍ",
+    "streamUrl": "https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "c1d9f25701023508bfa6737e3a8c7001",
+    "keyHex": "30c3613e9b06e0f7cc201014f31bf5d8",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_666f6e6d7573",
+    "name": "Fon Music",
+    "poster": "https://i.imgur.com/tXABQDE.png",
+    "genre": "KÊNH CA NHẠC",
+    "streamUrl": "http://tntm.mediacdn.ru/cdn/tntmusic/tracks-v1a1/mono.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6b6f7265616e",
+    "name": "Korean Central Broadcasting Station 1",
+    "poster": "https://i.postimg.cc/VLJkZ4Xb/KCBS.png",
+    "genre": "KÊNH RADIO NƯỚC NGOÀI",
+    "streamUrl": "https://kctv.koryofront.org/stream/kcradio1/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6b6f7265616e",
+    "name": "Korean Central Broadcasting Station 2",
+    "poster": "https://i.postimg.cc/VLJkZ4Xb/KCBS.png",
+    "genre": "KÊNH RADIO NƯỚC NGOÀI",
+    "streamUrl": "https://kctv.koryofront.org/stream/kcradio2/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e6d6f7669",
+    "name": "On Movies - You TV",
+    "poster": "https://i.ytimg.com/vi/NZablQM-L9g/maxresdefault.jpg",
+    "genre": "VTVcab",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=181",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7363747631",
+    "name": "SCTV1",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv1",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7363747635",
+    "name": "SCTV5",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV5.jpg",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv5",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7363747633",
+    "name": "SCTV3",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv3",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7363747634",
+    "name": "SCTV4",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv4",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7363747637",
+    "name": "SCTV7",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv7.webp",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv7",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7363747638",
+    "name": "SCTV8",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7363747639",
+    "name": "SCTV9",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV9.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv9",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7363747636",
+    "name": "SCTV6",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png",
+    "genre": "SCTV",
+    "streamUrl": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763130",
+    "name": "SCTV10",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv10",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763135",
+    "name": "SCTV15",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV15.png",
+    "genre": "SCTV",
+    "streamUrl": "https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "9121ebe293bc46cd89e5d83a78c1a53c",
+    "keyHex": "9285615a491a424fb025f9e8d571bcd5",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_736374763137",
+    "name": "SCTV17",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV17.png",
+    "genre": "SCTV",
+    "streamUrl": "https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "9121ebe293bc46cd89e5d83a78c1a53c",
+    "keyHex": "9285615a491a424fb025f9e8d571bcd5",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_736374763231",
+    "name": "SCTV21 - Việt Nam Ký Ức",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV21.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv21",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763232",
+    "name": "SCTV22",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",
+    "genre": "SCTV",
+    "streamUrl": "https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "883fe37e69254f0db1a9c8908e5ab56f",
+    "keyHex": "8f0762de62f849039420b513068aca40",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_736374767068",
+    "name": "SCTV Phim Tổng Hợp",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctvphim",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_73637476",
+    "name": "SCTV4K",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV4K.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763131",
+    "name": "SCTV11",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv11",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763132",
+    "name": "SCTV12",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv12.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv12",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763133",
+    "name": "SCTV13",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv13.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv13",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763134",
+    "name": "SCTV14",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv14.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv14",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763136",
+    "name": "SCTV16",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv16",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763138",
+    "name": "SCTV18",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv18.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv18",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763139",
+    "name": "SCTV19",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv19.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv19",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_736374763230",
+    "name": "SCTV20",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV20.png",
+    "genre": "SCTV",
+    "streamUrl": "https://vmttv.dpdns.org/VTVGo/?sctv20",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6e6d686e6e67",
+    "name": "Đèn Âm Hồn: Người Con Gái Nam Xương",
+    "poster": "https://daknong.1cdn.vn/2025/02/06/den-am-hon-review-phim-va-lich-chieu-tai-viet-nam.jpg",
+    "genre": "LIVE EVENTS 🔴",
+    "streamUrl": "https://s6.kkphimplayer6.com/20250811/miyJKDrj/3500kb/hls/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_646f7261656d",
+    "name": "Doraemon Movie 44: Nobita và cuộc phiêu lưu vào thế giới trong tranh (bản lồng tiếng)",
+    "poster": "https://kenh14cdn.com/203336854389633024/2025/5/24/ngangcc690d7e-1620-4524-aafa-a7496c81f6f6-174807929920015425666-1748084313655-17480843144601375971451.jpg",
+    "genre": "LIVE EVENTS 🔴",
+    "streamUrl": "https://s6.kkphimplayer6.com/20250827/JfkCJsGc/3500kb/hls/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_636f6e6b6261",
+    "name": "Con Kể Ba Nghe",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/con-ke-ba-nghe.jpg",
+    "genre": "LIVE EVENTS 🔴",
+    "streamUrl": "https://v7.kkphimplayer7.com/20260827/WX44Nosv/3500kb/hls/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_646f7261656d",
+    "name": "Doraemon Movie 45: Nobita và lâu đài dưới đáy biển phiên bản mới (Vietsub)",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/nobita%20v%C3%A0%20l%C3%A2u%20%C4%91%C3%A0i%20d%C6%B0%E1%BB%9Bi%20%C4%91%C3%A1y%20bi%E1%BB%83n%20phi%C3%AAn%20b%E1%BA%A3n%20m%E1%BB%9Bi.jpg",
+    "genre": "LIVE EVENTS 🔴",
+    "streamUrl": "https://v7.kkphimplayer7.com/20260828/lfE5hjEB/3500kb/hls/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e666f6f74",
+    "name": "On Football 50fps",
+    "poster": "https://r2.epg.io.vn/2026-09-17/26.png",
+    "genre": "VTVcab",
+    "streamUrl": "https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_6f6e73706f72",
+    "name": "On Sports News 50fps",
+    "poster": "https://r2.epg.io.vn/2026-09-17/28.png",
+    "genre": "VTVcab",
+    "streamUrl": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/THETHAO_TINTUC_HD/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_6f6e73706f72",
+    "name": "On Sports 50fps",
+    "poster": "https://r2.epg.io.vn/2026-09-17/16.png",
+    "genre": "VTVcab",
+    "streamUrl": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM2/THETHAO_HD/manifest.mpd",
+    "latency": 200,
+    "isClearkeyFlag": true,
+    "kidHex": "f3d73b3a9b89462ebf7911004ea3b3b9",
+    "keyHex": "2e547a81ff90aa02648cb9e3f79e7339",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_6c616e67736f",
+    "name": "Lang Son TV (720p) [Geo-blocked]",
+    "poster": "https://i.imgur.com/Sj7EjYT.png",
+    "genre": "General",
+    "streamUrl": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e7068696d",
+    "name": "ON Phim Viet (1080p)",
+    "poster": "https://i.ibb.co/Swvp1vwM/IMG-2525.jpg",
+    "genre": "Series",
+    "streamUrl": "https://vmttv.dpdns.org/tv360/?id=175",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f6e76696567",
+    "name": "ON Vie Giai Tri (1080p)",
+    "poster": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/VTVCab1%20-%20ON%20Vie%20GI%E1%BA%A2I%20TR%C3%8D.png",
+    "genre": "Entertainment",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=180",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7363747632",
+    "name": "SCTV2 SD (720p)",
+    "poster": "https://i.imgur.com/8i5DXIg.png",
+    "genre": "Undefined",
+    "streamUrl": "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6d756c746976",
+    "name": "Multivision Sports (720p) [Not 24/7]",
+    "poster": "https://i.imgur.com/wLjSSo2.jpg",
+    "genre": "Sports",
+    "streamUrl": "https://stream.digitalgt.com:3605/live/multivisionsportslive.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6f766163696f",
+    "name": "Ovacion TV (720p) [Not 24/7]",
+    "poster": "https://i.imgur.com/7Xndgxk.png",
+    "genre": "Sports",
+    "streamUrl": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7265766e6163",
+    "name": "REV'N Action (720p) [Geo-blocked]",
+    "poster": "https://i.imgur.com/xsm8mMd.png",
+    "genre": "Auto;Outdoor;Series;Sports",
+    "streamUrl": "https://freecast-lukentvlive.vgcdn.net/out/v1/a4f31f297fc5440f814bd2cffd77e689/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_73706f727473",
+    "name": "Sports Television (720p) [Not 24/7]",
+    "poster": "https://i.imgur.com/HvFpGeH.png",
+    "genre": "Sports",
+    "streamUrl": "https://live.koryocdn.org/sports/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_303830303331",
+    "name": "🟢 08:00 31/10 ⚽ FC Juarez vs Club Queretaro (Iron Man)",
+    "poster": "https://xoigac.top/images/football/teams/2298.webp",
+    "genre": "Xôi Gấc TV",
+    "streamUrl": "https://4ac07980a95d.ap-northeast-1.playback.live-video.net/api/video/v1/ap-northeast-1.256097482755.channel.1BtPS40vZ4YO.m3u8?expires=1793423128&signature=UhpkxzlXUoJ90kBx6JK4Fl-3wJAg8iFnAJh6JF3eJSI",
+    "latency": 431
+  },
+  {
+    "id": "vmttv_313330303331",
+    "name": "13:00 31/10 ⚽ Melbourne City vs Sydney (Moon Kight)",
+    "poster": "https://xoigac.top/images/football/teams/945.webp",
+    "genre": "Xôi Gấc TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 604
+  },
+  {
+    "id": "vmttv_313433303331",
+    "name": "14:30 31/10 ⚽ Gwangju FC vs Gimcheon Sangmu (TRÀ ĐÁ)",
+    "poster": "https://sta.vnres.co/file/common/20261029/50fafd4bf04ca127629230279dd96390.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 616
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 ⚽ Jeonbuk Hyundai Motors vs Daejeon Hana Citizen (BLV CÁO)",
+    "poster": "https://sta.vnres.co/file/common/20261029/92c0232eda22be541276d2f048612f7e.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 617
+  },
+  {
+    "id": "vmttv_313830303331",
+    "name": "18:00 31/10 ⚽ Song Lam Nghe An vs Công An Nhân Dân (Moon Kight)",
+    "poster": "https://xoigac.top/images/football/teams/3678.webp",
+    "genre": "Xôi Gấc TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 671
+  },
+  {
+    "id": "vmttv_303633303331",
+    "name": "🟢 06:30 31/10 🏀 Boston Celtics vs Chicago Bulls (Riko) [hls]",
+    "poster": "https://cdn.keobongvip.digital/images/basketball-teams/ef37e5c1c853e5b689b6791b00e8bc58.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://eqr2hdarxfliv.vcdn.cloud/1793116541_hd/1793116541_hd@720p.m3u8",
+    "latency": 977
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 ⚽ Jeonbuk Motors vs Daejeon Citizen (Raccoon)",
+    "poster": "https://xoigac.top/images/football/teams/2762.webp",
+    "genre": "Xôi Gấc TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1128
+  },
+  {
+    "id": "vmttv_303730303331",
+    "name": "🟢 07:00 31/10 🏀 Dallas Mavericks vs Houston Rockets (Mickey) [hls]",
+    "poster": "https://cdn.keobongvip.digital/images/basketball-teams/0ae1b26dafd6ba3ff82f91d19b235038.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://pzhgifbkllliv.vcdn.cloud/1793374416_hd/1793374416_hd@720p.m3u8",
+    "latency": 1210
+  },
+  {
+    "id": "vmttv_313433303331",
+    "name": "14:30 31/10 🏀 Incheon vs Mobis Phoebus (BLV POCARI) [flv]",
+    "poster": "https://img.cltvap.cc/basketball/team/64656d413393bbf84730b123a43cb876.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/19919577.m3u8",
+    "latency": 1350
+  },
+  {
+    "id": "vmttv_6f6e76696564",
+    "name": "ON Vie DRAMAS",
+    "poster": "https://i.imgur.com/n7QICK7.png",
+    "genre": "KÊNH VTVcab",
+    "streamUrl": "http://dvrfl05.bozztv.com/vch_vchannel18/tracks-v1a1/mono.m3u8",
+    "latency": 1398
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 🏀 Anyang Jung Kwan Jang vs Suwon KT (blv-nem) [hls]",
+    "poster": "https://static.flashscore.com/res/image/data/viUBkizB-KtOrDRPL.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1535
+  },
+  {
+    "id": "vmttv_313130303331",
+    "name": "11:00 31/10 ⚽ Newcastle Jets FC vs Wellington Phoenix (blv-ngu) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/newcastle-jets.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1574
+  },
+  {
+    "id": "vmttv_303630303331",
+    "name": "🟢 06:00 31/10 🏀 Washington Wizards vs Charlotte Hornets (Ben) [hls]",
+    "poster": "https://cdn.keobongvip.digital/images/basketball-teams/f4a3bba0c74c9f2b90bc5861ec26e3c7.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://live05.miekgo.app/live/19919577.m3u8",
+    "latency": 1925
+  },
+  {
+    "id": "vmttv_736b7973706f",
+    "name": "Sky Sports 1 (1080p)",
+    "poster": "https://i.imgur.com/9onSfMi.png",
+    "genre": "Sports",
+    "streamUrl": "http://45.228.234.9:8000/play/a06b/index.m3u8",
+    "latency": 120
+  },
+  {
+    "id": "vmttv_666f7873706f",
+    "name": "Fox Sports 1 (720p)",
+    "poster": "https://i.imgur.com/O9BapV9.png",
+    "genre": "Sports",
+    "streamUrl": "http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8",
+    "latency": 189
+  },
+  {
+    "id": "vmttv_68747673706f",
+    "name": "HTV Sports (1080i)",
+    "poster": "https://upload.wikimedia.org/wikipedia/vi/3/3f/HTV_THETHAO_2014.png",
+    "genre": "Sports",
+    "streamUrl": "https://vmttv.dpdns.org/tv360/?id=htv-the-thao",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_666f7873706f",
+    "name": "Fox Sports (1080p)",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png",
+    "genre": "Sports",
+    "streamUrl": "http://138.59.227.20:8000/play/a085/index.m3u8",
+    "latency": 1652
+  },
+  {
+    "id": "vmttv_64617a6e3370",
+    "name": "DAZN 3 Portugal (720p)",
+    "poster": "https://i.imgur.com/2rXsq2m.png",
+    "genre": "Sports",
+    "streamUrl": "http://23.237.104.106:8080/DAZN_3/index.m3u8",
+    "latency": 98
+  },
+  {
+    "id": "vmttv_64617a6e34",
+    "name": "DAZN 4 (540p)",
+    "poster": "https://i.imgur.com/m7ga8bU.png",
+    "genre": "Sports",
+    "streamUrl": "http://23.237.104.106:8080/DAZN_4/index.m3u8",
+    "latency": 115
+  },
+  {
+    "id": "vmttv_64617a6e35",
+    "name": "DAZN 5 (720p)",
+    "poster": "https://i.imgur.com/HD2XaeS.png",
+    "genre": "Sports",
+    "streamUrl": "http://23.237.104.106:8080/DAZN_5/index.m3u8",
+    "latency": 115
+  },
+  {
+    "id": "vmttv_6573706e6c61",
+    "name": "ESPN Latin America Mexico (1080p)",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "genre": "Sports",
+    "streamUrl": "http://168.228.44.241:9997/play/a06p/index.m3u8",
+    "latency": 128
+  },
+  {
+    "id": "vmttv_636374763130",
+    "name": "CCTV10",
+    "poster": "https://i.imgur.com/W8JNs1s.png",
+    "genre": "KÊNH ĐẶC SẮC",
+    "streamUrl": "http://74.91.26.218:82/live/cctv10hd.m3u8",
+    "latency": 129
+  },
+  {
+    "id": "vmttv_6363747636",
+    "name": "CCTV6",
+    "poster": "https://static.wikia.nocookie.net/logos/images/d/d9/CCTV6.png/revision/latest?cb=20230816063202&path-prefix=vi",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv6hd.m3u8",
+    "latency": 133
+  },
+  {
+    "id": "vmttv_6363747631",
+    "name": "CCTV1",
+    "poster": "https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch541_425_305",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv1hd.m3u8",
+    "latency": 135
+  },
+  {
+    "id": "vmttv_6363747633",
+    "name": "CCTV3",
+    "poster": "https://static.wikia.nocookie.net/logos/images/f/f2/CCTV3.png/revision/latest/scale-to-width-down/680?cb=20230514030148&path-prefix=vi",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv3hd.m3u8",
+    "latency": 136
+  },
+  {
+    "id": "vmttv_6363747632",
+    "name": "CCTV2",
+    "poster": "https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv2hd.m3u8",
+    "latency": 136
+  },
+  {
+    "id": "vmttv_636374763133",
+    "name": "CCTV13",
+    "poster": "https://static.wikia.nocookie.net/logos/images/e/e4/CCTV13.png/revision/latest/scale-to-width-down/1131?cb=20230513114844&path-prefix=vi",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv13hd.m3u8",
+    "latency": 151
+  },
+  {
+    "id": "vmttv_6363747639",
+    "name": "CCTV9",
+    "poster": "https://static.wikia.nocookie.net/logopedia/images/b/ba/CCTV-9.png/revision/latest?cb=20220111064222",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv9hd.m3u8",
+    "latency": 152
+  },
+  {
+    "id": "vmttv_683535306363",
+    "name": "h_550/cctv11_logo_by_amazingtoludada3000_dew5uz3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUwIiwicGF0aCI6IlwvZlwvZWNkNTEyNjMtYmIwZi00NDY1LWFmODYtZjdlZDI1ZTU4ZTcwXC9kZXc1dXozLTBkM2YzY2FhLTdhYzItNGM5ZC1hYWY1LThhYTZhYmMzM2Y0Yi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8ug6Sn5aUfjIJREthEuWeK0cIMretxYjCpnyiH0U2BM\", CCTV11",
+    "poster": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/dew5uz3-0d3f3caa-7ac2-4c9d-aaf5-8aa6abc33f4b.png/v1/fill/w_1280,h_550/cctv11_logo_by_amazingtoludada3000_dew5uz3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUwIiwicGF0aCI6IlwvZlwvZWNkNTEyNjMtYmIwZi00NDY1LWFmODYtZjdlZDI1ZTU4ZTcwXC9kZXc1dXozLTBkM2YzY2FhLTdhYzItNGM5ZC1hYWY1LThhYTZhYmMzM2Y0Yi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8ug6Sn5aUfjIJREthEuWeK0cIMretxYjCpnyiH0U2BM",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv11hd.m3u8",
+    "latency": 152
+  },
+  {
+    "id": "vmttv_636374763135",
+    "name": "CCTV15",
+    "poster": "https://i.imgur.com/MXep2Zc.png",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv15hd.m3u8",
+    "latency": 152
+  },
+  {
+    "id": "vmttv_6363747637",
+    "name": "CCTV7",
+    "poster": "https://static.wikia.nocookie.net/logos/images/a/a6/CCTV7_tr%C6%B0%E1%BB%9Bc_2019.png/revision/latest/scale-to-width-down/1547?cb=20230104111736&path-prefix=vi",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv7hd.m3u8",
+    "latency": 153
+  },
+  {
+    "id": "vmttv_636374763137",
+    "name": "CCTV17",
+    "poster": " https://i.imgur.com/omJsYRq.png",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv17hd.m3u8",
+    "latency": 153
+  },
+  {
+    "id": "vmttv_636374763132",
+    "name": "CCTV12",
+    "poster": "https://static.wikia.nocookie.net/logos/images/7/7b/CCTV12.png/revision/latest/scale-to-width-down/1131?cb=20230513114830&path-prefix=vi",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv12hd.m3u8",
+    "latency": 154
+  },
+  {
+    "id": "vmttv_6363747638",
+    "name": "CCTV8",
+    "poster": "https://www.tvchinese.net/uploads/tv/cctv8.jpg",
+    "genre": "🇨🇳| Trung Quốc",
+    "streamUrl": "http://74.91.26.218:82/live/cctv8hd.m3u8",
+    "latency": 154
+  },
+  {
+    "id": "vmttv_6573706e326c",
+    "name": "ESPN 2 Latin America Colombia (1080p)",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/960px-ESPN2_logo.svg.png",
+    "genre": "Sports",
+    "streamUrl": "http://190.61.47.54:8000/play/a005/index.m3u8",
+    "latency": 181
+  },
+  {
+    "id": "vmttv_747662766974",
+    "name": "TVB VIỆT NAM",
+    "poster": "https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",
+    "genre": "TVB",
+    "streamUrl": "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8",
+    "latency": 183
+  },
+  {
+    "id": "vmttv_6573706e34",
+    "name": "ESPN 4 (Brazil) (1080p)",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png",
+    "genre": "Sports",
+    "streamUrl": "http://181.78.197.59:8000/play/a07n/index.m3u8",
+    "latency": 183
+  },
+  {
+    "id": "vmttv_6573706e32",
+    "name": "ESPN 2 (United States) HD (720p)",
+    "poster": "https://i.imgur.com/00tsvjE.png",
+    "genre": "Sports",
+    "streamUrl": "http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8",
+    "latency": 186
+  },
+  {
+    "id": "vmttv_6573706e6c61",
+    "name": "ESPN Latin America Colombia (1080p)",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "genre": "Sports",
+    "streamUrl": "http://190.61.47.54:8000/play/a004/index.m3u8",
+    "latency": 190
+  },
+  {
+    "id": "vmttv_6573706e75",
+    "name": "ESPNU HD (720p)",
+    "poster": "https://i.imgur.com/HiBrysh.png",
+    "genre": "Sports",
+    "streamUrl": "http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8",
+    "latency": 191
+  },
+  {
+    "id": "vmttv_6573706e",
+    "name": "ESPN (Brazil) (1080p)",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png",
+    "genre": "Sports",
+    "streamUrl": "http://181.78.197.59:8000/play/a07z/index.m3u8",
+    "latency": 196
+  },
+  {
+    "id": "vmttv_68747634",
+    "name": "HTV4 HD",
+    "poster": "https://i.imgur.com/BcCA0x2.png",
+    "genre": "KÊNH HTV - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=9",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747635",
+    "name": "HTV5 HD",
+    "poster": "https://i.imgur.com/EI0mJRf.png",
+    "genre": "KÊNH HTV - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=151",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747631",
+    "name": "HTV1 HD",
+    "poster": "https://i.imgur.com/KEMSBD3.png",
+    "genre": "KÊNH HTV - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTV1-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476327669",
+    "name": "HTV2 - Vie Channel HD",
+    "poster": "https://i.imgur.com/2npoF3Q.png",
+    "genre": "KÊNH HTV - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747633",
+    "name": "HTV3 HD",
+    "poster": "https://i.imgur.com/TCoIsVF.png",
+    "genre": "KÊNH HTV - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTV3-SD-720p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747663",
+    "name": "HTVC+ HD",
+    "poster": "https://i.imgur.com/Tkjs3C5.png",
+    "genre": "KÊNH HTVC - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_64727474686b",
+    "name": "DRT - TH ĐẮK LẮK HD",
+    "poster": "https://i.imgur.com/7CQqMeh.png",
+    "genre": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
+    "streamUrl": "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747637",
+    "name": "HTV7 HD",
+    "poster": "https://i.imgur.com/n2PEK28.png",
+    "genre": "KÊNH HTV - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747639",
+    "name": "HTV9 HD",
+    "poster": "https://i.imgur.com/6GSN524.png",
+    "genre": "KÊNH HTV - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476636475",
+    "name": "HTVC DU LỊCH & CUỘC SỐNG HD",
+    "poster": "https://i.imgur.com/mDemDFL.png",
+    "genre": "KÊNH HTVC - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476637068",
+    "name": "HTVC PHIM HD",
+    "poster": "https://i.imgur.com/P0wqvmu.png",
+    "genre": "KÊNH HTVC - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476746874",
+    "name": "HTV THỂ THAO HD",
+    "poster": "https://i.imgur.com/ikaiET3.png",
+    "genre": "KÊNH HTV - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476636769",
+    "name": "HTVC GIA ĐÌNH HD",
+    "poster": "https://i.imgur.com/Al6xJme.png",
+    "genre": "KÊNH HTVC - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476637468",
+    "name": "HTVC THUẦN VIỆT HD",
+    "poster": "https://i.imgur.com/KtMeo6q.png",
+    "genre": "KÊNH HTVC - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476637068",
+    "name": "HTVC PHỤ NỮ HD",
+    "poster": "https://i.imgur.com/FxzpvHI.png",
+    "genre": "KÊNH HTVC - BÁO VÀ PTTH TPHCM",
+    "streamUrl": "https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7468766c6175",
+    "name": "THVL Audio - PT. VĨNH LONG TIẾNG KHMER",
+    "poster": "https://i.imgur.com/lSzxw0C.png",
+    "genre": "KÊNH RADIO TRONG NƯỚC",
+    "streamUrl": "http://sohoa.truyenthanhthongminh.vn/tinhtravinh",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6874766b6579",
+    "name": "HTV Key",
+    "poster": "https://vietanhtv.id.vn/logo/htvkey.png",
+    "genre": "HTV",
+    "streamUrl": "https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist_b2500000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476636475",
+    "name": "HTVC Du Lịch HD",
+    "poster": "https://vietanhtv.id.vn/logo/htvcdulichcuocsong.png",
+    "genre": "HTV",
+    "streamUrl": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747632",
+    "name": "HTV2 HD",
+    "poster": "https://vietanhtv.id.vn/logo/htv2.png",
+    "genre": "HTV",
+    "streamUrl": "https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747663706c",
+    "name": "HTVC Plus HD",
+    "poster": "https://vietanhtv.id.vn/logo/htvcplus.png",
+    "genre": "HTV",
+    "streamUrl": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476636361",
+    "name": "HTVC Ca Nhạc HD",
+    "poster": "https://vietanhtv.id.vn/logo/htvccanhac.png",
+    "genre": "HTV",
+    "streamUrl": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476316970",
+    "name": "HTV1 - Đài PTTH Thành Phố Hồ Chí Minh",
+    "poster": "https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",
+    "genre": "HTV",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=190",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476336970",
+    "name": "HTV3 - Đài PTTH Thành Phố Hồ Chí Minh",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV3.jpg",
+    "genre": "HTV",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=192",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476346970",
+    "name": "HTV4 - Đài PTTH Thành Phố Hồ Chí Minh",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV4.jpg",
+    "genre": "HTV",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=9",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476356263",
+    "name": "HTV5 - B Channel",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV5.jpg",
+    "genre": "HTV",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=151",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476376970",
+    "name": "HTV7 - Đài PTTH Thành Phố Hồ Chí Minh",
+    "poster": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png",
+    "genre": "HTV",
+    "streamUrl": "https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476396970",
+    "name": "HTV9 - Đài PTTH Thành Phố Hồ Chí Minh",
+    "poster": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png",
+    "genre": "HTV",
+    "streamUrl": "https://live-a.fptplay53.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_647274626f76",
+    "name": "DRT HD - Báo và PTTH Đắk Lắk",
+    "poster": "https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png",
+    "genre": "Địa phương",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=51",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_6832626f7670",
+    "name": "H2 - Báo và PTTH Hà Nội",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/H2.jpg",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7468766c3262",
+    "name": "THVL2 - Báo và PTTH Vĩnh Long",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL2.webp",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7468766c3162",
+    "name": "THVL1 - Báo và PTTH Vĩnh Long",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL1.webp",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_3800000=10000-mp4a_131600=20000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7468766c3462",
+    "name": "THVL4 - Báo và PTTH Vĩnh Long",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL4.webp",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7468766c3562",
+    "name": "THVL5 - Báo và PTTH Vĩnh Long",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL5.webp",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_61747632626f",
+    "name": "ATV2 | Báo và PTTH An Giang",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_637476626f76",
+    "name": "CTV HD - Báo và PTTH Cà Mau",
+    "poster": "https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.fptplay53.net/epzhd2/camauhd_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_7468766c3362",
+    "name": "THVL3 - Báo và PTTH Vĩnh Long",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL3.webp",
+    "genre": "Địa phương",
+    "streamUrl": "https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_74687431626f",
+    "name": "THĐT1 HD - Báo và PTTH Đồng Tháp",
+    "poster": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.fptplay53.net/epzhd2/dongthap01_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_74687432626f",
+    "name": "THĐT2 - Báo và PTTH Đồng Tháp",
+    "poster": "https://images.fptplay53.net/media/channels/icon_channel_mien-tay-thdt2_165666993738.png",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_61747633626f",
+    "name": "ATV3 - Báo và PTTH An Giang",
+    "poster": "https://angiangtv.vn/wp-content/uploads/2025/06/H5.png",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747631626f",
+    "name": "HTV1 - Báo và PTTH Thành Phố Hồ Chí Minh",
+    "poster": "https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",
+    "genre": "HTV",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=190",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747633626f",
+    "name": "HTV3 - Báo và PTTH Thành Phố Hồ Chí Minh",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV3.jpg",
+    "genre": "HTV",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=192",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747634626f",
+    "name": "HTV4 - Báo và PTTH Thành Phố Hồ Chí Minh",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV4.jpg",
+    "genre": "HTV",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=9",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747637626f",
+    "name": "HTV7 - Báo và PTTH Thành Phố Hồ Chí Minh",
+    "poster": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png",
+    "genre": "HTV",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=193",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747639626f",
+    "name": "HTV9 - Báo và PTTH Thành Phố Hồ Chí Minh",
+    "poster": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png",
+    "genre": "HTV",
+    "streamUrl": "https://freem3u.xyz/api/live/play.m3u8?vid=194",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476636661",
+    "name": "HTVC Family (720p)",
+    "poster": "https://i.ibb.co/BVQtkHgF/IMG-2899.png",
+    "genre": "Family",
+    "streamUrl": "https://dethich.pw/htvcgiadinh/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_687476636d6f",
+    "name": "HTVC Movies (720p)",
+    "poster": "https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png",
+    "genre": "Movies;Series",
+    "streamUrl": "https://dethich.pw/htvcphim/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_68747663776f",
+    "name": "HTVC Women (720p)",
+    "poster": "https://upload.wikimedia.org/wikipedia/vi/a/a9/HTVC_PHUNU.png",
+    "genre": "Lifestyle",
+    "streamUrl": "https://dethich.pw/htvcphunu/index.m3u8",
+    "latency": 200
+  },
+  {
+    "id": "vmttv_666967687462",
+    "name": "FightBox Poland (576i)",
+    "poster": "https://i.imgur.com/mRsnztA.png",
+    "genre": "Sports",
+    "streamUrl": "http://92.114.85.87:8003/play/a00b/index.m3u8",
+    "latency": 205
+  },
+  {
+    "id": "vmttv_647562616974",
+    "name": "Dubai TV International",
+    "poster": "https://i.imgur.com/UMmbyHv.png",
+    "genre": "KÊNH TỔNG HỢP NUỚC NGOÀI",
+    "streamUrl": "http://185.9.2.18/chid_139/tracks-v1a1/mono.m3u8",
+    "latency": 218
+  },
+  {
+    "id": "vmttv_313534303331",
+    "name": "15:40 31/10 ⚽ Macarthur vs Western Sydney Wanderers (NEM NƯỚNG) [flv]",
+    "poster": "https://d1c0s7hi3ugzoc.cloudfront.net/teams/macarthur-252006",
+    "genre": "Bia Ôm TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 293
+  },
+  {
+    "id": "vmttv_313533303331",
+    "name": "15:30 31/10 ⚽ Arema FC vs Bali United (NGƯỜI CAT) [hls]",
+    "poster": "https://s8tvkc.top/wp-json/s8-image/32f1ce73-f710-4d16-adf9-826f9d018f97",
+    "genre": "S8 TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 311
+  },
+  {
+    "id": "vmttv_6573706e7072",
+    "name": "ESPN Premium HD (1080p)",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/960px-ESPN_Premium_logo.svg.png",
+    "genre": "Sports",
+    "streamUrl": "http://158.172.155.130:8000/play/a0ao/index.m3u8",
+    "latency": 342
+  },
+  {
+    "id": "vmttv_6c747674686c",
+    "name": "LTV - TH LAI CHÂU HD",
+    "poster": "https://i.imgur.com/n02cvKQ.png",
+    "genre": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
+    "streamUrl": "http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni",
+    "latency": 523
+  },
+  {
+    "id": "vmttv_747476746874",
+    "name": "TTV - TH THANH HOÁ HD",
+    "poster": "https://i.imgur.com/UwTCbZ5.png",
+    "genre": "KÊNH TRONG NƯỚC & ĐỊA PHƯƠNG",
+    "streamUrl": "http://123.31.36.68/live.m3u8?c=vstv525&q=sd&type=tv&location=NA&pkg=pkg12.hni",
+    "latency": 534
+  },
+  {
+    "id": "vmttv_6d6263636875",
+    "name": "MBC Chungbuk",
+    "poster": "https://i.namu.wiki/i/_ok2k1eWuOVMUOzJvkKfMho8XkxLgcH5iEsIGNhQzDp4aRF14b5Xmix5m89ilmJuHqOg-aMghY-3f6xLgX53_mZGuqrhJ36wlohgy64HTGlhuK8Xeg7eybN6MtuGWP62k4aN6EeDPPNT0_VL4T-GpQ.webp",
+    "genre": "🇰🇷| Hàn Quốc",
+    "streamUrl": "http://211.33.246.4:32954/cj_live/myStream.sdp/playlist.m3u8",
+    "latency": 553
+  },
+  {
+    "id": "vmttv_6a7476736273",
+    "name": "JTV SBS",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Jtv_logo.svg/250px-Jtv_logo.svg.png?_=20220328012951",
+    "genre": "🇰🇷| Hàn Quốc",
+    "streamUrl": "http://61.85.197.53:1935/jtv_live/myStream/chunklist_w1542137203.m3u8",
+    "latency": 556
+  },
+  {
+    "id": "vmttv_636a62736273",
+    "name": "CJB SBS",
+    "poster": "https://static.wikia.nocookie.net/logos/images/3/3f/CJB.jpg/revision/latest?cb=20200224093248&path-prefix=ko",
+    "genre": "🇰🇷| Hàn Quốc",
+    "streamUrl": "http://1.222.207.80:1935/live/cjbtv/playlist.m3u8",
+    "latency": 565
+  },
+  {
+    "id": "vmttv_6731736273",
+    "name": "G1 SBS",
+    "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/250px-G1_broadcasting_logo.svg.png",
+    "genre": "🇰🇷| Hàn Quốc",
+    "streamUrl": "http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8",
+    "latency": 568
+  },
+  {
+    "id": "vmttv_716e72327175",
+    "name": "QNR2 - Quảng Ninh",
+    "poster": "https://media.baoquangninh.vn/upload/files/logo/logotrangchu3.png",
+    "genre": "Radio",
+    "streamUrl": "http://103.90.220.236/qtvlive/qnr2.m3u8",
+    "latency": 575
+  },
+  {
+    "id": "vmttv_313533303331",
+    "name": "15:30 31/10 ⚽ PSM Makassar vs Madura United (BLV WUKONG)",
+    "poster": "https://sta.vnres.co/file/common/20261027/f50e6ad23cc5a94c1db28a2ad20b8eef.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 583
+  },
+  {
+    "id": "vmttv_313030303331",
+    "name": "10:00 31/10 ⚽ Club Atletico La Paz vs Club Deportivo Dorados de Sinaloa (BLV RÔSI)",
+    "poster": "https://sta.vnres.co/file/common/20261027/6f43a22eb8f42f9654f51b32e21238d4.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 586
+  },
+  {
+    "id": "vmttv_716e72317175",
+    "name": "QNR1 - Quảng Ninh",
+    "poster": "https://media.baoquangninh.vn/upload/files/logo/logotrangchu4.png",
+    "genre": "Radio",
+    "streamUrl": "http://103.90.220.236/qtvlive/qnr1.m3u8",
+    "latency": 587
+  },
+  {
+    "id": "vmttv_313030303331",
+    "name": "10:00 31/10 ⚽ Monterrey Women vs Unam Pumas Women (BLV A TÚ)",
+    "poster": "https://sta.vnres.co/file/common/20261029/49a5cff968b490db03379f27f0791c0c.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 593
+  },
+  {
+    "id": "vmttv_313430303331",
+    "name": "14:00 31/10 ⚽ Kashiwa Reysol vs Urawa (Black Panther)",
+    "poster": "https://xoigac.top/images/football/teams/281.webp",
+    "genre": "Xôi Gấc TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 598
+  },
+  {
+    "id": "vmttv_313530303331",
+    "name": "15:00 31/10 🏀 Geelong Venom W vs Canberra Capitals W (KING)",
+    "poster": "https://sta.vnres.co/file/common/20261029/40b35769475a513d5098c1786864a273.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 603
+  },
+  {
+    "id": "vmttv_313533303331",
+    "name": "15:30 31/10 ⚽ Persik Kediri vs Persita Tangerang (BLV RYO)",
+    "poster": "https://sta.vnres.co/file/common/20261027/e6fce4f03e11728162c20a2c996c705a.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 606
+  },
+  {
+    "id": "vmttv_313333303331",
+    "name": "13:30 31/10 🏀 Tauranga Whai W vs Mainland Pouakai W (The Flash)",
+    "poster": "https://xoigac.tophttps://media.api-sports.io/basketball/teams/4951.png",
+    "genre": "Xôi Gấc TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 606
+  },
+  {
+    "id": "vmttv_313930303331",
+    "name": "19:00 31/10 ⚽ SV Darmstadt 98 vs 1. FC Magdeburg (BLV LONG)",
+    "poster": "https://sta.vnres.co/file/common/20261027/ad031d45b5eb6a26136d027daaa4dd5e.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 610
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 🏀 KCC Egis vs Wonju DB (HUNTER)",
+    "poster": "https://sta.vnres.co/file/common/20261029/98bfd6a40beeca71ccd3ae2c40f06125.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 617
+  },
+  {
+    "id": "vmttv_313130303331",
+    "name": "11:00 31/10 ⚽ Hokkaido Consadole Sapporo vs Shonan Bellmare (BLV VOI)",
+    "poster": "https://sta.vnres.co/file/common/20261029/0b5615eba61ae0f1510b5098f3f056f2.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 618
+  },
+  {
+    "id": "vmttv_303830303331",
+    "name": "🟢 08:00 31/10 ⚽ FC Juarez vs Queretaro FC (SILVA)",
+    "poster": "https://imgts.sportpulseapiz.com/football/team/23xmvkh386yqg8n/image/small",
+    "genre": "Xôi Lạc Z TV",
+    "streamUrl": "https://live2.zktsva.app/live/306290.m3u8",
+    "latency": 746
+  },
+  {
+    "id": "vmttv_313733303331",
+    "name": "17:30 31/10 🏀 Perth Wildcats vs Illawarra Hawks (BLV Cozy) [flv]",
+    "poster": "https://img.cltvap.cc/basketball/team/b967348890e26c5ca68f7d26392f5984.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/87379114.m3u8",
+    "latency": 880
+  },
+  {
+    "id": "vmttv_313930303331",
+    "name": "19:00 31/10 ⚽ CLB Kaiserslautern vs Hertha BSC (BLV Cozy) [flv]",
+    "poster": "https://img.cltvap.cc/football/team/6544eff3f60d98faf65649c8bf1c81eb.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/87379114.m3u8",
+    "latency": 891
+  },
+  {
+    "id": "vmttv_313330303331",
+    "name": "13:00 31/10 ⚽ Kashima Antlers vs Cerezo Osaka (blv-ty) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/kashima-antlers.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://live2.zktsva.app/live/796315.m3u8",
+    "latency": 911
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 ⚽ Kyoto Sanga vs Shimizu S-Pulse (blv-beo) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/kyoto-sanga.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 947
+  },
+  {
+    "id": "vmttv_757064617465",
+    "name": "Updated 31/10 08:07",
+    "poster": "https://via.placeholder.com/300x200?text=TV",
+    "genre": "Updated 31/10 08:07",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 949
+  },
+  {
+    "id": "vmttv_303633303331",
+    "name": "🟢 06:30 31/10 🏀 Toronto Raptors vs Orlando Magic (Cầy) [hls]",
+    "poster": "https://cdn.keobongvip.digital/images/basketball-teams/3f61db02c20eb73e5f27948b3122f2fb.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://pzhgifbkllliv.vcdn.cloud/1793116571_hd/1793116571_hd@720p.m3u8",
+    "latency": 962
+  },
+  {
+    "id": "vmttv_313830303331",
+    "name": "18:00 31/10 ⚽ Hải Phòng vs Bình Phước (blv-sun) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/hai-phong.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 965
+  },
+  {
+    "id": "vmttv_303930303331",
+    "name": "🟡 09:00 31/10 🏀 Phoenix Suns vs Denver Nuggets (blv-ben) [hls]",
+    "poster": "https://cdn.keobongvip.digital/images/basketball-teams/6a6855785a58edb23c76c99ed6601a33.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 970
+  },
+  {
+    "id": "vmttv_313030303331",
+    "name": "10:00 31/10 ⚽ Puebla vs Pumas UNAM (blv-beo) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/puebla.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 970
+  },
+  {
+    "id": "vmttv_313830303331",
+    "name": "18:00 31/10 ⚽ Sông Lam Nghệ An vs Công An Hà Nội (blv-ty) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/song-lam-nghe-an.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 989
+  },
+  {
+    "id": "vmttv_313534303331",
+    "name": "15:40 31/10 ⚽ FC Macarthur vs Western Sydney Wanderers (blv-tri) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/fc-macarthur.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 991
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 🏀 KCC Egis vs Wonju DB Promy (blv-cay) [hls]",
+    "poster": "https://static.flashscore.com/res/image/data/6akehaEa-QVr2kiM7.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 998
+  },
+  {
+    "id": "vmttv_313330303331",
+    "name": "13:00 31/10 ⚽ Vissel Kobe vs Nagoya Grampus Eight (blv-18) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/vissel-kobe.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1004
+  },
+  {
+    "id": "vmttv_303830303331",
+    "name": "🟢 08:00 31/10 ⚽ Atletico San Luis vs Atlas FC (NGƯỜI NẶN) [hls]",
+    "poster": "https://s8tvkc.top/wp-json/s8-image/39986b47-0552-4869-a827-626970a2d966",
+    "genre": "S8 TV",
+    "streamUrl": "https://hls.lauthaitv.cc/live/sanluis-atlas-mexliga/index.m3u8",
+    "latency": 1011
+  },
+  {
+    "id": "vmttv_303830303331",
+    "name": "🟢 08:00 31/10 ⚽ Juarez vs Queretaro (BLV SPRITE) [flv]",
+    "poster": "https://img.cltvap.cc/football/team/2ef06350057f561b5dce57c7fca99a74.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/75748097.m3u8",
+    "latency": 1087
+  },
+  {
+    "id": "vmttv_6363747634",
+    "name": "CCTV4",
+    "poster": "https://i.imgur.com/kx8metk.png",
+    "genre": "KÊNH THIẾT YẾU",
+    "streamUrl": "http://74.91.26.218:82/live/cctv4hd.m3u8",
+    "latency": 1108
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 ⚽ Fagiano Okayama vs CLB Tokyo (BLV SPRITE) [flv]",
+    "poster": "https://img.cltvap.cc/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/75748097.m3u8",
+    "latency": 1112
+  },
+  {
+    "id": "vmttv_313830303331",
+    "name": "18:00 31/10 ⚽ Hai Phong vs Bình Phước (Super Man)",
+    "poster": "https://xoigac.top/images/football/teams/3671.webp",
+    "genre": "Xôi Gấc TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1121
+  },
+  {
+    "id": "vmttv_303830353331",
+    "name": "🟢 08:05 31/10 ⚽ Atletico Bucaramanga vs Deportivo Pasto (Gà Ô Long) [flv]",
+    "poster": "https://img.cltvap.cc/football/team/70c92764e181ce7abe6176c411a93fe3.png",
+    "genre": "Gà Vàng 33 TV",
+    "streamUrl": "https://live2.zktsva.app/live/432017.m3u8",
+    "latency": 1127
+  },
+  {
+    "id": "vmttv_313533303331",
+    "name": "15:30 31/10 🏀 Cairns Taipans vs Melbourne United (CHAN SENA)",
+    "poster": "https://sta.vnres.co/file/common/20261029/14aa454226096e69028ca06bf0f2a393.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1129
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 ⚽ Okayama vs FC Tokyo (Gà Ô Long) [flv]",
+    "poster": "https://img.cltvap.cc/football/team/fb5c6121bf5b351f60ebf8ffd5b9d887.png",
+    "genre": "Gà Vàng 33 TV",
+    "streamUrl": "https://live2.zktsva.app/live/432017.m3u8",
+    "latency": 1140
+  },
+  {
+    "id": "vmttv_313733303331",
+    "name": "17:30 31/10 ⚽ Erzurumspor FK vs Çorum FK (Raccoon)",
+    "poster": "https://xoigac.top/images/football/teams/1009.webp",
+    "genre": "Xôi Gấc TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1141
+  },
+  {
+    "id": "vmttv_313930303331",
+    "name": "19:00 31/10 ⚽ VfL Wolfsburg vs VfL Osnabrück (BLV LION)",
+    "poster": "https://sta.vnres.co/file/common/20261027/0366558088108c6e01566503c470ed3f.png",
+    "genre": "Sút Bóng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1144
+  },
+  {
+    "id": "vmttv_313130303331",
+    "name": "11:00 31/10 🏀 Tasmania Jewels W vs Sydney W (The Flash)",
+    "poster": "https://xoigac.tophttps://media.api-sports.io/basketball/teams/7899.png",
+    "genre": "Xôi Gấc TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1147
+  },
+  {
+    "id": "vmttv_636374763134",
+    "name": "CCTV14",
+    "poster": "https://i.imgur.com/SORrhtE.png",
+    "genre": "KÊNH THIẾU NHI",
+    "streamUrl": "http://74.91.26.218:82/live/cctv14hd.m3u8",
+    "latency": 1147
+  },
+  {
+    "id": "vmttv_313030303331",
+    "name": "10:00 31/10 ⚽ CLB Puebla vs U.N.A.M._ Pumas (BLV PEPSI) [flv]",
+    "poster": "https://img.cltvap.cc/football/team/a98bd615308472b65dc82bcc3a2d54fb.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/59444581.m3u8",
+    "latency": 1156
+  },
+  {
+    "id": "vmttv_313830303331",
+    "name": "18:00 31/10 ⚽ Nam Dinh vs Viettel (Venom)",
+    "poster": "https://xoigac.top/images/football/teams/3674.webp",
+    "genre": "Xôi Gấc TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1164
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 🏀 Anyang KGC vs Busan KTF Sonicboom (BLV 247) [flv]",
+    "poster": "https://img.cltvap.cc/basketball/team/30683c359531664a5b97f129c047fcdc.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/90865415.m3u8",
+    "latency": 1197
+  },
+  {
+    "id": "vmttv_303730303331",
+    "name": "🟢 07:00 31/10 🏀 Minnesota Timberwolves vs Los Angeles Clippers (Nem) [hls]",
+    "poster": "https://cdn.keobongvip.digital/images/basketball-teams/e97782502546bad80da0347446a3a311.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://pzhgifbkllliv.vcdn.cloud/1793374382_hd/1793374382_hd@720p.m3u8",
+    "latency": 1207
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 🏀 KCC Egis vs Wonju Dongbu Promy (BLV Cozy) [flv]",
+    "poster": "https://img.cltvap.cc/basketball/team/0add24fc964de3ea25e83417aa301f81.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/87379114.m3u8",
+    "latency": 1225
+  },
+  {
+    "id": "vmttv_766965746e61",
+    "name": "VIETNAM TODAY HD",
+    "poster": "https://i.imgur.com/p9bWxfm.png",
+    "genre": "KÊNH THIẾT YẾU",
+    "streamUrl": "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8",
+    "latency": 1272
+  },
+  {
+    "id": "vmttv_313533303331",
+    "name": "15:30 31/10 🏀 Cairns Taipans vs Melbourne Tigers (BLV 247) [flv]",
+    "poster": "https://img.cltvap.cc/basketball/team/2f4677e5f2089fb794a968f25c2dcb3a.png!w80",
+    "genre": "Cola TV",
+    "streamUrl": "https://live05.miekgo.app/live/90865415.m3u8",
+    "latency": 1345
+  },
+  {
+    "id": "vmttv_303830303331",
+    "name": "🟢 08:00 31/10 ⚽ Atletico San Luis vs Atlas (Súp) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/atletico-san-luis.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://pzhgifbkllliv.vcdn.cloud/1793373786_hd/1793373786_hd@720p.m3u8",
+    "latency": 1391
+  },
+  {
+    "id": "vmttv_303730303331",
+    "name": "🟢 07:00 31/10 🏀 Miami Heat vs Indiana Pacers (Điếc) [hls]",
+    "poster": "https://cdn.keobongvip.digital/images/basketball-teams/43ebb4d6ad3ea5b68e9b1c969dff055b.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://pzhgifbkllliv.vcdn.cloud/1793374438_hd/1793374438_hd@720p.m3u8",
+    "latency": 1394
+  },
+  {
+    "id": "vmttv_6e616e6f",
+    "name": "NANO",
+    "poster": "https://i.imgur.com/dYj3XDa.png",
+    "genre": "KÊNH ĐẶC SẮC",
+    "streamUrl": "http://s1.tv-nano.com/Nano_rec/index.m3u8",
+    "latency": 1412
+  },
+  {
+    "id": "vmttv_63696e656d61",
+    "name": "Cinemax HD",
+    "poster": "https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/cinemax.png",
+    "genre": "Quốc Tế",
+    "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd",
+    "latency": 1463,
+    "isClearkeyFlag": true,
+    "kidHex": "acb4c23471063327adc732e283c0847f",
+    "keyHex": "e9868f5f473d0fd8699ede48d531c2b0",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_303930303331",
+    "name": "🟡 09:00 31/10 🏀 Golden State Warriors vs Los Angeles Lakers (blv-vit) [hls]",
+    "poster": "https://cdn.keobongvip.digital/images/basketball-teams/c7341a14964f12885ea2ae80b76cebe8.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1529
+  },
+  {
+    "id": "vmttv_313830303331",
+    "name": "18:00 31/10 ⚽ Thép Xanh Nam Định vs Thể Công Viettel (blv-tri) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/nam-dinh-fc.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1530
+  },
+  {
+    "id": "vmttv_313930303331",
+    "name": "19:00 31/10 ⚽ Bangkok United FC vs Uthai Thani FC (daucaumu) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/bangkok-united-fc.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1559
+  },
+  {
+    "id": "vmttv_323030303331",
+    "name": "20:00 31/10 ⚽ Levante vs Atletico Madrid (blv-tri) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/levante.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1561
+  },
+  {
+    "id": "vmttv_313230353331",
+    "name": "12:05 31/10 🏐 Okayama Seagulls Nữ vs Gunma Greenwings Nữ (blv-sun) [hls]",
+    "poster": "https://static.flashscore.com/res/image/data/hbnnxXeM-KGU5ehTK.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1563
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 ⚽ Okayama FC vs FC Tokyo (blv-sup) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/fagiano-okayama.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1571
+  },
+  {
+    "id": "vmttv_313933303331",
+    "name": "19:30 31/10 ⚽ Chelsea FC vs Manchester United (blvhau) [hls]",
+    "poster": "https://images.keovip88.net/images/teams/chelsea.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1574
+  },
+  {
+    "id": "vmttv_313830303331",
+    "name": "18:00 31/10 ⚽ Song Lam Nghe An vs Cong An Ha Noi FC (Nguyễn Đảm)",
+    "poster": "https://global-cdn.cdnx.tech/football/team/7f95b001711ce3978d498602e1d2c9fd.png",
+    "genre": "Vua Sân Cỏ TV",
+    "streamUrl": "https://live2.zktsva.app/live/306290.m3u8",
+    "latency": 1769
+  },
+  {
+    "id": "vmttv_313433303331",
+    "name": "14:30 31/10 🏀 KOGAS vs Mobis Phoebus (blv-nem) [hls]",
+    "poster": "https://static.flashscore.com/res/image/data/E9xGHfcM-vehtS5P1.png",
+    "genre": "Giờ Vàng TV",
+    "streamUrl": "https://freem3u.xyz/static/no-signal/low.m3u8",
+    "latency": 1899
+  },
+  {
+    "id": "vmttv_6c6f76656e61",
+    "name": "LOVE NATURE 4K",
+    "poster": "https://i.imgur.com/Cj5a1JF.png",
+    "genre": "KÊNH ĐẶC SẮC",
+    "streamUrl": "https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8",
+    "latency": 1906
+  },
+  {
+    "id": "vmttv_6d6164616e69",
+    "name": "Madani Channel Urdu",
+    "poster": "https://i.imgur.com/MitLeCJ.png",
+    "genre": "KÊNH ĐẶC SẮC",
+    "streamUrl": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/b9790f10-cb0d-4e30-82bf-84a756234e58/master.m3u8",
+    "latency": 1917
+  },
+  {
+    "id": "vmttv_313230303331",
+    "name": "12:00 31/10 ⚽ Mito Hollyhock vs Sanfrecce Hiroshima (Trần Hoàng)",
+    "poster": "https://global-cdn.cdnx.tech/football/team/9ead844240532c4e12d3eb45d2087924.png",
+    "genre": "Vua Sân Cỏ TV",
+    "streamUrl": "https://live05.yefpwmc.app/live/19919577_tsc.m3u8",
+    "latency": 1923
+  },
+  {
+    "id": "vmttv_6b6f7265616e",
+    "name": "Korean Central Television",
+    "poster": "https://i.imgur.com/p02AEOF.png",
+    "genre": "KÊNH THIẾT YẾU",
+    "streamUrl": "https://stream.intchoson.com/kctv/main_stream.m3u8",
+    "latency": 2113
+  },
+  {
+    "id": "vmttv_63696e656d61",
+    "name": "Cinema World",
+    "poster": "https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png",
+    "genre": "Quốc Tế",
+    "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/cinemaworld.smil/manifest.mpd",
+    "latency": 2170,
+    "isClearkeyFlag": true,
+    "kidHex": "ee7915564d7439d09bd3556ffccc87a4",
+    "keyHex": "b35e12a75a42a6f9184723a90ff42d9c",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_647265616d77",
+    "name": "Dreamworks",
+    "poster": "https://s7266.cdn.mytvnet.vn/vimages/de/eb/ba/a7/7e/ee/deba7-pdreamworkshd-channel-unkn.png",
+    "genre": "Quốc Tế",
+    "streamUrl": "https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dreamwork.smil/manifest.mpd",
+    "latency": 2176,
+    "isClearkeyFlag": true,
+    "kidHex": "67dae20527c63dadaaae609aa91577cb",
+    "keyHex": "59328f621d56767bc5ff9404a8940683",
+    "userAgent": "Dalvik/2.1.0"
+  },
+  {
+    "id": "vmttv_6672616e6365",
+    "name": "France 24",
+    "poster": "https://m.media-amazon.com/images/I/81oryzEMf-L.png",
+    "genre": "Quốc Tế",
+    "streamUrl": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8",
+    "latency": 2176
+  },
+  {
+    "id": "vmttv_6e627476626f",
+    "name": "NBTV - Báo và PTTH Ninh Bình",
+    "poster": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png",
+    "genre": "Địa phương",
+    "streamUrl": "https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8",
+    "latency": 2179
+  }
+]
