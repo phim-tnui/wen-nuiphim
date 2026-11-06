@@ -1,0 +1,36 @@
+name: "TungNui Bot Scanner"
+
+on:
+  schedule:
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+  repository_dispatch:
+    types: [auto_heal]
+
+jobs:
+  check-and-clean-links:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: "Checkout repository"
+        uses: actions/checkout@v4
+
+      - name: "Setup Node.js"
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: "Install dependencies"
+        run: npm install axios
+
+      - name: "Run Bot Scanner"
+        run: node bot-checker.js
+
+      - name: "Push updated live channels & endpoints"
+        run: |
+          git config --local user.email "bot@tungnui.pro"
+          git config --local user.name "TungNui Auto-Bot"
+          git add live_channels.json api_endpoints.json
+          git diff --staged --quiet || (git commit -m "Auto update live channels and endpoints" && git push)
